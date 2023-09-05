@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ayeshakhan19
 - 👀 I’m interested in programming specially in python!
-- 🌱 I’m currently learning python throug IBM data engineering course on coursera
-- 💞️ I’m looking to collaborate on python projects
+- 🌱
+- 💞
  I have also learned HTML & CSS.
  
 
